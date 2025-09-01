@@ -30,7 +30,7 @@ File Support: HTML, PDF, DOCX
 🚀 Installation
 
 Download the latest release from Releases
-.
+https://github.com/longnhgsvn/iLecture/releases/
 
 Extract the package.
 
